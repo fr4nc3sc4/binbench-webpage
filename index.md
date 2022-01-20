@@ -1,4 +1,4 @@
-**[LINK1](about.html) [LINK2](about.html) [LINK3](about.html)**
+**[LINK1](pag1.html) [LINK2](pag1.html) [HOME](index.md)**
 
 
 [ciaoooooooo link](https://google.com)
