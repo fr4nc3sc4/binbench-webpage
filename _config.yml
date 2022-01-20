@@ -1,5 +1,4 @@
 theme: jekyll-theme-modernist
 
-navigation:
-- { title: "code", code: "https://google.com"}
-- { title: "code", url: "https://google.com"}
+title: TITOLO
+description: descrizione
