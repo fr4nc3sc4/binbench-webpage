@@ -1,4 +1,4 @@
 theme: jekyll-theme-dinky
 
 navigation:
-- { title: "code", code: "https://google.com"}
+- { title: "code", url: "https://google.com"}
